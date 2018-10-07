@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1534017262 source:d:\cpp\breakin\breakin - new\main.cpp
+	<iostream>
+	<windows.h>
+	<fcntl.h>
+	<vector>
+	<ctime>
+	<stdlib.h>
+	<stdio.h>
+	<gl/gl.h>
+	"game.h"
+
+1534017262 d:\cpp\breakin\breakin - new\game.h
+	<iostream>
+	<sstream>
+	<windows.h>
+	<gl/gl.h>
+	<vector>
+	<math.h>
+	<ctime>
+	<string>
+
+1534018117 source:d:\cpp\breakin\breakin - new\game.cpp
+	"game.h"
+
